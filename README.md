@@ -1,16 +1,32 @@
-## Hi there 👋
+# 💫 Sobre mim  
+👋 Oi! Eu sou a **Lana Beatriz**, estudante de **Sistemas de Informação** na UTFPR e atualmente estagiária em **Digital Workplace na Mondelez International**.  
+💻 Apaixonada por tecnologia, dados e automação, sempre buscando aprender e evoluir.  
 
-<!--
-**lanabeatriz/lanabeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente aprendendo: **SQL e C++**  
+🔧 Tecnologias que uso/estudo: **Python, C, Excel, ServiceNow**  
+📍 Curitiba – PR, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tecnologias & Ferramentas  
+<div align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
+</div>  
+
+---
+
+# 📊 GitHub Stats  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=lanablobo&show_icons=true&theme=dracula" height="180em"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanablobo&layout=compact&theme=dracula" height="180em"/>  
+</div>  
+
+---
+
+# 📫 Onde me encontrar  
+- [LinkedIn](https://www.linkedin.com/in/lana-b-lobo/)  
+- ✉️ lanawsy@gmail.com  
