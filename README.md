@@ -19,14 +19,6 @@
 
 ---
 
-# 📊 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=lanablobo&show_icons=true&theme=dracula" height="180em"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanablobo&layout=compact&theme=dracula" height="180em"/>  
-</div>  
-
----
-
 # 📫 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/lana-b-lobo/)  
-- ✉️ lanawsy@gmail.com  
+- ✉[Gmail](lanabeatriz@alunos.utfpr.edu.br) 
