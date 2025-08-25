@@ -14,11 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
 </div>  
 
 ---
 
 # 📫 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/lana-b-lobo/)  
-- ✉[Gmail](lanabeatriz@alunos.utfpr.edu.br) 
+- [Gmail](lanabeatriz@alunos.utfpr.edu.br) 
