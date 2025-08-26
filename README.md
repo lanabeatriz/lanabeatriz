@@ -1,5 +1,5 @@
 # 💫 Sobre mim  
-👋 Oi! Eu sou a **Lana Beatriz**, estudante de **Sistemas de Informação** na UTFPR e atualmente estagiária em **Digital Workplace na Mondelez International**.  
+👋 Oi! Eu sou a **Lana**, estudante de **Sistemas de Informação** na UTFPR e atualmente estagiária em **Digital Workplace na Mondelez International**.  
 💻 Apaixonada por tecnologia, dados e automação, sempre buscando aprender e evoluir.  
 
 🌱 Atualmente aprendendo: **SQL e C++**  
